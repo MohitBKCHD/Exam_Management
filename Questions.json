@@ -9,10 +9,7 @@
      question_text : "A page fault occurs ?",
      questionId : 2,
      answer : 1,
-     options : ["when the page is not in the memory",
-"when the page is in the memory",
-"when the process enters the blocked state",
-"when the process is in the ready state"]
+     options : ["when the page is not in the memory","when the page is in the memory","when the process enters the blocked state","when the process is in the ready state"]
    },
    {
      question_text : "Which of the following will determine your choice of systems software for your computer? ",
