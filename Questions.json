@@ -1,21 +1,27 @@
 [
    {
-     question_text : "This is Question Number 1 ?",
+     question_text : "Round robin scheduling is essentially the preemptive version of ________ ?",
      questionId : 1,
      answer : 1,
-     options : ["option1","option2","option3","option4"]
+     options : ["FIFO","SJF","Shortest remaining","Longest time first"]
    },
    {
-     question_text : "This is Question Number 2 ?",
+     question_text : "A page fault occurs ?",
      questionId : 2,
      answer : 1,
-     options : ["option1","option2","option3","option4"]
+     options : ["when the page is not in the memory",
+"when the page is in the memory",
+"when the process enters the blocked state",
+"when the process is in the ready state"]
    },
    {
-     question_text : "This is Question Number 3 ?",
+     question_text : "Which of the following will determine your choice of systems software for your computer? ",
      questionId : 3,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 4,
+     options : ["Is the applications software you want to use compatible with it ?",
+"Is it expensive ?",
+"Is it compatible with your hardware ?",
+"Both 1 and 3"]
    },
     { question_text : "This is Question Number 4 ?",
      questionId : 4,
