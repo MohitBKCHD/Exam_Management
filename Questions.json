@@ -23,15 +23,21 @@
 "Is it compatible with your hardware ?",
 "Both 1 and 3"]
    },
-    { question_text : "This is Question Number 4 ?",
+    { question_text : "What is a shell ? ",
      questionId : 4,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 2,
+     options : ["is a hardware component",
+"It is a command interpreter",
+"It is a part in compiler",
+"It is a tool in CPU scheduling"]
    },
-     {question_text : "This is Question Number 5 ?",
+     {question_text : "Routine is not loaded until it is called. All routines are kept on disk in a relocatable load format. The main program is loaded into memory & is executed. This type of loading is called... ? ",
      questionId : 5,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 3,
+     options : ["Static loading",
+"Dynamic loading",
+"Dynamic linking",
+"Overlays"]
    },
      {question_text : "This is Question Number 6 ?",
      questionId : 6,
