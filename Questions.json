@@ -39,30 +39,45 @@
 "Dynamic linking",
 "Overlays"]
    },
-     {question_text : "This is Question Number 6 ?",
+     {question_text : "In the blocked state ? ",
      questionId : 6,
      answer : 1,
-     options : ["option1","option2","option3","option4"]
+     options : ["the processes waiting for I/O are found",
+"the process which is running is found",
+"the processes waiting for the processor are found",
+"none of the above"]
    },
-     {question_text : "This is Question Number 7 ?",
+     {question_text : "What is the memory from 1K - 640K called ?",
      questionId : 7,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 4,
+     options : ["Extended Memory",
+"Normal Memory",
+"Low Memory",
+"Conventional Memory"]
    },
-  {   question_text : "This is Question Number 8 ?",
+  {   question_text : "Virtual memory is ..... ?",
      questionId : 8,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 3,
+     options : ["An extremely large main memory",
+"An extremely large secondary memory",
+"An illusion of extremely large main memory",
+"A type of memory used in super computers"]
    },
-   {  question_text : "This is Question Number 9 ?",
+   {  question_text : "Which is not the state of the process ?",
      questionId : 9,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 4,
+     options : ["Blocked",
+"Running",
+"Ready",
+"Privileged"]
    },
-    { question_text : "This is Question Number 10 ?",
+    { question_text : "The number of processes completed per unit time is known as.... ?",
      questionId : 10,
-     answer : 1,
-     options : ["option1","option2","option3","option4"]
+     answer : 2,
+     options : ["Output",
+"Throughput",
+"Efficiency",
+"Capacity"]
    }
   
    ]
